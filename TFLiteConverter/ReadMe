@@ -1,0 +1,2 @@
+The command line in the text file can convert a Frozen_graph file(.pb) to a tensorflow lite file, which can be then packed with Android Studio or gradle.
+In the python file, it can convert a Frozen_graph file(.pb) to a tflite file.
